@@ -1,0 +1,30 @@
+Rest 1, Appetizers, Chicken Satay, 7.50
+Rest 1, Appetizers, Spring Roll, 6.50
+Rest 1, Appetizers, Hummus, 5.50
+Rest 1, Appetizers, Pork Dumplings, 5.50
+Rest 1, Entrees, Chicken Kabab, 10.50
+Rest 1, Entrees, Pork Kabab, 10.50
+Rest 1, Entrees, Beef Kabab, 10.50
+Rest 1, Entrees, Steak Burger, 10.50
+Rest 1, Entrees, Veggie Burger, 9.50
+Rest 1, Drinks, Soda, 2.00
+Rest 1, Drinks, Hot Tea, 2.00
+Rest 1, Drinks, Coffee, 2.50
+Rest 1, Desserts, Mango Mochi, 4.50
+Rest 1, Desserts, Rice Pudding, 5.50
+Rest 1, Desserts, Key Lime Pie, 6.50
+Rest 2, Appetizers, Chicken Gyoza, 7.50
+Rest 2, Appetizers, Egg Roll, 6.50
+Rest 2, Appetizers, Edamame, 5.50
+Rest 2, Appetizers, Hummus, 5.50
+Rest 2, Entrees, Shrimp Pasta, 10.50
+Rest 2, Entrees, Curry Beef Noodles, 10.50
+Rest 2, Entrees, Pork Fried Rice, 10.50
+Rest 2, Entrees, Chicken Fried Rice, 10.50
+Rest 2, Entrees, Veggie Fried Rice, 9.50
+Rest 2, Drinks, Soda, 1.50
+Rest 2, Drinks, Green Tea, 2.00
+Rest 2, Drinks, Bubble Tea, 4.50
+Rest 2, Desserts, Banana Spilt, 5.50
+Rest 2, Desserts, Strawberry Mochi, 5.50
+Rest 2, Desserts, Coffee Mousse Cake, 6.50
